@@ -8,7 +8,7 @@ This PCB includes the recommended support circuitry for the subscriber line inte
 
 ## Interactive BOM
 
-[Interactive Bill Of Material (BOM)](KiCad/BOM/ibom.html)
+[![Interactive Bill Of Material, BOM](KiCad/BOM/ibom.html)](KiCad/BOM/ibom.html)
 
 The RJ phone jack used on this PCB is from AliExpress and uses this footprint.
 
