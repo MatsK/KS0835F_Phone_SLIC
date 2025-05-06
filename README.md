@@ -8,8 +8,8 @@ This PCB includes the recommended support circuitry for the subscriber line inte
 
 ## Interactive BOM
 
-[![Interactive Bill Of Material, BOM](https://matsk.github.io/KS0835F_Phone_SLIC/ibom.html)]
+[Interactive Bill Of Material, BOM](https://matsk.github.io/KS0835F_Phone_SLIC/ibom.html)
 
 The RJ phone jack used on this PCB is from AliExpress and uses this footprint.
 
-[RJ](Doc/RJ_Connector_Specs.jpg =300x200)
+[![RJ](Doc/RJ_Connector_Specs.jpg =300x200)}
